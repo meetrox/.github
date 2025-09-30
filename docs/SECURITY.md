@@ -35,3 +35,9 @@ This policy applies to:
 ---
 
 Thank you for helping us keep MEETROX and our users secure!
+---
+
+## References
+
+This security policy is based on recommendations provided by [Vanta](https://trust.meetrox.ai) to support ISO 27001 and SOC 2 compliance across our repositories.
+
