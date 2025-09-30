@@ -83,10 +83,10 @@ All reports will be handled with confidentiality.
 This Code of Conduct is effective as of **July 31, 2024**.
 
 ---
+
+By participating in MEETROX projects, you agree to abide by this Code of Conduct and help ensure a positive and respectful environment for all contributors.
+
 ## References
 
 This security policy is based on recommendations provided by [MeetRox](https://trust.meetrox.ai) to support ISO 27001 and SOC 2 compliance across our repositories.
-
-
-By participating in MEETROX projects, you agree to abide by this Code of Conduct and help ensure a positive and respectful environment for all contributors.
 
